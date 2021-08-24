@@ -1,4 +1,4 @@
-### Hello! ✨
+### hello ✨
 
 [![Statds](https://github-readme-stats.vercel.app/api?username=thomas-cardon&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/thomas-cardon)
 
